@@ -1,0 +1,10 @@
+print("1 2 3")
+print("1 2 3")
+print("1 2 3")
+
+if ruut == input(x)
+print(ruut)
+if ()
+    print("1 2 3")
+    print("1 2 3")
+    print("1 2 3")
